@@ -1,0 +1,9 @@
+<package format="2">
+  <name>rb02_description</name>
+  <version>0.0.1</version>
+  <description>
+  This package provides urdf model for rb02.
+  </description>
+  <maintainer email="marco.strullato@gmail.com">Marco strullato</maintainer>
+  <license></license>
+</package>
